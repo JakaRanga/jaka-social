@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6yUNjRTFqs3VN2yJr/+I1H5wKzlBQet2o1sMHKuLvLn6Okf9KhWaZ4dTOrSha79L+y/XLnK+KTeN8m8cREBuA==",
+  "success": true,
+  "projectFilePath": "/home/jakaranga/repos/jaka-social/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/jakaranga/.nuget/packages/bogus/33.0.2/bogus.33.0.2.nupkg.sha512",
+    "/home/jakaranga/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jakaranga/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/jakaranga/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/jakaranga/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/jakaranga/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/jakaranga/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
