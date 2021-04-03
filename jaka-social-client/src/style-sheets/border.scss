@@ -1,0 +1,11 @@
+$sides: "left","right","top","bottom";
+
+.border {
+    border: 1px solid var(--border-color);
+}
+
+@each $side in $sides {
+    .border-#{$side} {
+        border-#{$side}: 1px solid var(--border-color);
+    }
+}

@@ -1,0 +1,17 @@
+:host {
+    width: 15vw;
+}
+
+.js-cp-sidebar-link {
+    font-size: .8em;
+    outline: none;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.js-cp-sidebar-link-active {
+    color: var(--text-primary);
+
+}

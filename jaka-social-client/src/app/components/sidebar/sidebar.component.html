@@ -1,0 +1,8 @@
+<div class="h-100 border-right js-cp-sidebar">
+    <div *ngFor="let link of sidebarLinks">
+        <div class="js-cp-sidebar-link p-2 secondary-font-family" [routerLink]="[link.link]"
+            routerLinkActive="js-cp-sidebar-link-active">
+            {{ link.label }}
+        </div>
+    </div>
+</div>
