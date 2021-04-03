@@ -1,0 +1,12 @@
+<div class="h-100 d-flex flex-column">
+    <js-toolbar [(isVisible)]="isVisible"></js-toolbar>
+
+    <div class="flex-fill d-flex">
+
+        <js-sidebar *ngIf="isVisible"></js-sidebar>
+
+        <div class="flex-fill p-2">
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+</div>

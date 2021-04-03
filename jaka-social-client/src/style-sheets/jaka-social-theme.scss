@@ -1,0 +1,46 @@
+@import "background.scss";
+@import "border.scss";
+@import "buttons.scss";
+@import "text.scss";
+@import "../../node_modules/ngx-jaka/style/flex.scss";
+@import "../../node_modules/ngx-jaka/style/margin.scss";
+@import "../../node_modules/ngx-jaka/style/padding.scss";
+@import "../../node_modules/ngx-jaka/style/width-height.scss";
+
+body {
+    --primary: #42b983;
+    --primary-light: #78ecb3;
+    --primary-dark: #008856;
+    
+    --secondary: #ffffff;
+    --secondary-dark: #cccccc;
+
+    --light: #ffffff;
+    --bg-light: #ffffff;
+    --text-light: #ffffff;
+    
+    --text-default: #202124;
+    --text-subtitle: #5f6368;
+    --text-primary: #42b983;
+    --text-primary-light: #78ecb3;
+    --text-primary-dark: #008856;
+    --text-secondary: #ffffff;
+    --text-secondary-dark: #cccccc;
+
+    --bg-default: #ffffff;
+    --bg-primary: #42b983;
+    --bg-primary-light: #78ecb3;
+    --bg-primary-dark: #008856;
+    --bg-secondary: #ffffff;
+    --bg-secondary-dark: #cccccc;
+
+    --border-color: #dadce0;
+
+    --default-font-family: 'Roboto', sans-serif;
+    --secondary-font-family: 'Ubuntu', sans-serif;
+
+    color: var(--text-default);
+    background-color: var(--bg-default);
+    font-family: var(--default-font-family);
+}
+
